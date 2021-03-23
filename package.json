@@ -1,0 +1,23 @@
+{
+  "name": "coffeeApp",
+  "version": "1.0.0",
+  "description": "This is a challenge set to create a demo coffee order app from codenation master 22 cohort. To practice our understanding of Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philwoz/node-coffee-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philwoz/node-coffee-app/issues"
+  },
+  "homepage": "https://github.com/philwoz/node-coffee-app#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
